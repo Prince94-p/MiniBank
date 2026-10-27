@@ -1,0 +1,11 @@
+==================================================
+           MINIBANK TRANSACTION SUMMARY           
+==================================================
+Log Files Scanned   : 1
+File Attributes     :
+  - transactions.log (Size: 169 bytes, Last Modified: 2026-10-27T04:21:28.257892019Z)
+Total Transactions  : 3
+Total Deposits      : Rs. 19000
+Total Withdrawals   : Rs. 2000
+Net Change          : Rs. 17000
+==================================================
